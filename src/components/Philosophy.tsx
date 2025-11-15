@@ -7,7 +7,7 @@ export default function Philosophy() {
             <div className="absolute -inset-4 bg-gradient-to-br from-[#D4AF37]/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
             <div className="relative overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/2306281/pexels-photo-2306281.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="/0-9.png"
                 alt="Elegant event setting"
                 className="w-full h-[600px] object-cover grayscale-[30%] group-hover:scale-105 transition-transform duration-700"
               />
@@ -19,7 +19,7 @@ export default function Philosophy() {
             <div className="space-y-2">
               <div className="w-16 h-px bg-gradient-to-r from-[#D4AF37] to-transparent" />
               <h2 className="font-serif text-5xl md:text-6xl text-[#1a1a1a] tracking-tight leading-tight">
-                The Mumus
+                The OCB
                 <br />
                 <span className="italic text-[#2d3a2e]">Philosophy</span>
               </h2>
@@ -27,7 +27,7 @@ export default function Philosophy() {
 
             <div className="space-y-6 text-[#4a4a4a] text-lg leading-relaxed">
               <p className="font-light">
-                At Mumus Events, we believe that the most memorable celebrations are those rooted in authenticity, refinement, and timeless grace. Our approach draws from the golden age of sophistication—where every detail mattered, and elegance was never an afterthought.
+                At OCB Events, we believe that the most memorable celebrations are those rooted in authenticity, refinement, and timeless grace. Our approach draws from the golden age of sophistication—where every detail mattered, and elegance was never an afterthought.
               </p>
 
               <p className="font-light">
