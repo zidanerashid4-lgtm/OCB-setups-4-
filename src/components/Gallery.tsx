@@ -1,32 +1,32 @@
 const images = [
   {
-    url: 'https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=800',
-    caption: 'Grand Ballroom Affair',
+    url: '/0-6.png',
+    caption: 'Elegant Table Setting',
     span: 'md:col-span-2 md:row-span-2',
   },
   {
-    url: 'https://images.pexels.com/photos/2306281/pexels-photo-2306281.jpeg?auto=compress&cs=tinysrgb&w=800',
-    caption: 'Intimate Garden Ceremony',
+    url: '/0-8.png',
+    caption: 'Fine Dining Details',
     span: 'md:col-span-1 md:row-span-1',
   },
   {
-    url: 'https://images.pexels.com/photos/1616113/pexels-photo-1616113.jpeg?auto=compress&cs=tinysrgb&w=800',
-    caption: 'Candlelit Reception',
+    url: '/0-5.png',
+    caption: 'Sophisticated Celebration',
     span: 'md:col-span-1 md:row-span-1',
   },
   {
-    url: 'https://images.pexels.com/photos/2306277/pexels-photo-2306277.jpeg?auto=compress&cs=tinysrgb&w=800',
-    caption: 'Floral Masterpiece',
+    url: '/0-10.png',
+    caption: 'Reception Grandeur',
     span: 'md:col-span-1 md:row-span-1',
   },
   {
     url: 'https://images.pexels.com/photos/1876279/pexels-photo-1876279.jpeg?auto=compress&cs=tinysrgb&w=800',
-    caption: 'Elegant Table Setting',
+    caption: 'Champagne Toast',
     span: 'md:col-span-2 md:row-span-1',
   },
   {
     url: 'https://images.pexels.com/photos/3171815/pexels-photo-3171815.jpeg?auto=compress&cs=tinysrgb&w=800',
-    caption: 'Champagne Toast',
+    caption: 'Memorable Moments',
     span: 'md:col-span-1 md:row-span-1',
   },
 ];
