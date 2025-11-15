@@ -6,15 +6,15 @@ const testimonials = [
     image: "https://images.pexels.com/photos/2801760/pexels-photo-2801760.jpeg?auto=compress&cs=tinysrgb&w=400",
   },
   {
-    quote: "Working with Mumus was an absolute pleasure. Their ability to understand our vision and elevate it with their expertise resulted in an event our guests still talk about.",
-    author: "Victoria Ashford",
-    event: "Annual Charity Gala",
+    quote: "The owner was professional and helpful. I got everything I needed minutes before my event, I really recommend this company.",
+    author: "Martin Kekana",
+    event: "Corporate Event",
     image: "https://images.pexels.com/photos/3756164/pexels-photo-3756164.jpeg?auto=compress&cs=tinysrgb&w=400",
   },
   {
-    quote: "The sophistication and attention to detail were unparalleled. Mumus Events doesn't just plan events—they create unforgettable experiences that resonate for years to come.",
-    author: "Alexander Pemberton",
-    event: "Corporate Anniversary Celebration",
+    quote: "The job was so amazing and everything was done on time.",
+    author: "Ashely Mingate",
+    event: "Special Event",
     image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
   },
 ];
