@@ -19,16 +19,6 @@ const images = [
     caption: 'Reception Grandeur',
     span: 'md:col-span-1 md:row-span-1',
   },
-  {
-    url: 'https://images.pexels.com/photos/1876279/pexels-photo-1876279.jpeg?auto=compress&cs=tinysrgb&w=800',
-    caption: 'Champagne Toast',
-    span: 'md:col-span-2 md:row-span-1',
-  },
-  {
-    url: 'https://images.pexels.com/photos/3171815/pexels-photo-3171815.jpeg?auto=compress&cs=tinysrgb&w=800',
-    caption: 'Memorable Moments',
-    span: 'md:col-span-1 md:row-span-1',
-  },
 ];
 
 export default function Gallery() {
